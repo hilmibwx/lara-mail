@@ -1,0 +1,1 @@
+Ini test email dengan gmail di laravel
